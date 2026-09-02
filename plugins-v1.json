@@ -10,7 +10,7 @@
         "de": "Geraetebasierte Spracherkennung mit Apples Speech-Framework. Erfordert macOS 26+, Streaming-Unterstuetzung."
       },
       "category": "transcription",
-      "downloadCount": 9127,
+      "downloadCount": 9138,
       "iconSystemName": "apple.logo",
       "releases": [
         {
@@ -20,7 +20,7 @@
           "size": 205581,
           "downloadURL": "https://github.com/TypeWhisper/typewhisper-mac/releases/download/plugin-speechanalyzer-v1.0.14/SpeechAnalyzerPlugin.zip",
           "minOSVersion": "26.0",
-          "downloadCount": 4414
+          "downloadCount": 4415
         },
         {
           "version": "1.0.13",
@@ -51,7 +51,7 @@
         "de": "Lokale Spracherkennung mit WhisperKit. 8 Modellgroessen, 99 Sprachen, Streaming-Unterstuetzung."
       },
       "category": "transcription",
-      "downloadCount": 13952,
+      "downloadCount": 13989,
       "iconSystemName": "waveform",
       "releases": [
         {
@@ -64,7 +64,7 @@
           "supportedArchitectures": [
             "arm64"
           ],
-          "downloadCount": 2471
+          "downloadCount": 2472
         },
         {
           "version": "1.0.23",
@@ -137,7 +137,7 @@
         "de": "Lokale Spracherkennung mit NVIDIA Parakeet TDT. Schnell und praezise, 25 Sprachen."
       },
       "category": "transcription",
-      "downloadCount": 35154,
+      "downloadCount": 35237,
       "iconSystemName": "bird",
       "releases": [
         {
@@ -150,7 +150,7 @@
           "supportedArchitectures": [
             "arm64"
           ],
-          "downloadCount": 7959
+          "downloadCount": 7960
         },
         {
           "version": "1.2.14",
@@ -259,7 +259,7 @@
         "de": "Cloud-Transkription und LLM ueber die Groq-API. Schnelle Inferenz, erfordert API-Key."
       },
       "category": "transcription",
-      "downloadCount": 8946,
+      "downloadCount": 8951,
       "iconSystemName": "bolt.fill",
       "requiresAPIKey": true,
       "releases": [
@@ -270,7 +270,7 @@
           "size": 182186,
           "downloadURL": "https://github.com/TypeWhisper/typewhisper-mac/releases/download/plugin-groq-v1.0.20/GroqPlugin.zip",
           "minOSVersion": "14.0",
-          "downloadCount": 4167
+          "downloadCount": 4168
         },
         {
           "version": "1.0.19",
@@ -301,7 +301,7 @@
         "de": "Cloud-Transkription, OpenAI-/ChatGPT-Prompts und Text-to-Speech. STT/TTS brauchen einen API-Key, Prompts funktionieren auch per ChatGPT-Login."
       },
       "category": "transcription",
-      "downloadCount": 2817,
+      "downloadCount": 2828,
       "iconSystemName": "brain",
       "requiresAPIKey": false,
       "releases": [
@@ -353,7 +353,7 @@
         "de": "Verbindung zu jedem OpenAI-kompatiblen API-Server fuer Transkription und LLM. Funktioniert mit Ollama, LM Studio, vLLM und mehr."
       },
       "category": "transcription",
-      "downloadCount": 2817,
+      "downloadCount": 2828,
       "iconSystemName": "server.rack",
       "releases": [
         {
@@ -403,7 +403,7 @@
         "de": "Lokale Qwen3-ASR-Spracherkennung mit MLX auf Apple Silicon. 30 Sprachen plus chinesische Dialektabdeckung, kein API-Key noetig."
       },
       "category": "transcription",
-      "downloadCount": 4323,
+      "downloadCount": 4337,
       "iconSystemName": "cpu",
       "releases": [
         {
@@ -416,7 +416,7 @@
           "supportedArchitectures": [
             "arm64"
           ],
-          "downloadCount": 284
+          "downloadCount": 285
         },
         {
           "version": "1.1.0",
@@ -489,7 +489,7 @@
         "de": "LLM-Anbieter ueber die Anthropic Claude API. Erfordert API-Key."
       },
       "category": "llm",
-      "downloadCount": 1196,
+      "downloadCount": 1200,
       "iconSystemName": "brain.head.profile",
       "requiresAPIKey": true,
       "releases": [
@@ -597,7 +597,7 @@
         "de": "Cloud-Transkription ueber die Cohere Transcribe API. Beste Genauigkeit fuer 14 Sprachen. Erfordert API-Key."
       },
       "category": "transcription",
-      "downloadCount": 126,
+      "downloadCount": 127,
       "iconSystemName": "waveform.badge.mic",
       "requiresAPIKey": true,
       "releases": [
@@ -608,7 +608,7 @@
           "size": 103238,
           "downloadURL": "https://github.com/TypeWhisper/typewhisper-mac/releases/download/plugin-cohere-v1.0.4/CoherePlugin.zip",
           "minOSVersion": "14.0",
-          "downloadCount": 56
+          "downloadCount": 57
         },
         {
           "version": "1.0.3",
@@ -660,7 +660,7 @@
         "de": "Cloud-Transkription ueber die ElevenLabs-Scribe-API mit Echtzeit-WebSocket-Streaming."
       },
       "category": "transcription",
-      "downloadCount": 488,
+      "downloadCount": 491,
       "iconSystemName": "waveform.badge.mic",
       "requiresAPIKey": true,
       "releases": [
@@ -693,7 +693,7 @@
         "de": "Cloud-Transkription ueber die Deepgram-API mit Echtzeit-WebSocket-Streaming. Erfordert API-Key."
       },
       "category": "transcription",
-      "downloadCount": 217,
+      "downloadCount": 227,
       "iconSystemName": "waveform.badge.mic",
       "requiresAPIKey": true,
       "releases": [
@@ -735,7 +735,7 @@
         "de": "LLM-Anbieter ueber die Google Gemini API. Erfordert API-Key."
       },
       "category": "llm",
-      "downloadCount": 1704,
+      "downloadCount": 1711,
       "iconSystemName": "sparkles",
       "requiresAPIKey": true,
       "releases": [
@@ -873,7 +873,7 @@
         "de": "Cloud-Transkription ueber Google Cloud Speech-to-Text mit einem Service-Account-JSON-Schluessel. Zerlegt laengere Aufnahmen automatisch in mehrere Recognize-Requests."
       },
       "category": "transcription",
-      "downloadCount": 409,
+      "downloadCount": 412,
       "iconSystemName": "globe.badge.chevron.backward",
       "requiresAPIKey": true,
       "releases": [
@@ -884,7 +884,7 @@
           "size": 242032,
           "downloadURL": "https://github.com/TypeWhisper/typewhisper-mac/releases/download/plugin-google-cloud-stt-v1.0.4/GoogleCloudSTTPlugin.zip",
           "minOSVersion": "14.0",
-          "downloadCount": 247
+          "downloadCount": 250
         },
         {
           "version": "1.0.3",
@@ -1034,7 +1034,7 @@
         "de": "Transkriptionen als Markdown-Notizen in deinem Obsidian-Vault speichern. Unterstuetzt Tagesnotizen, Frontmatter und Auto-Export."
       },
       "category": "action",
-      "downloadCount": 2040,
+      "downloadCount": 2052,
       "iconSystemName": "doc.text",
       "releases": [
         {
@@ -1075,7 +1075,7 @@
         "de": "Zugriff auf ueber 300 LLMs von OpenAI, Anthropic, Meta, Google und mehr ueber OpenRouter. Zeigt Modellpreise und Kontoguthaben. Erfordert API-Key."
       },
       "category": "llm",
-      "downloadCount": 960,
+      "downloadCount": 961,
       "iconSystemName": "globe",
       "requiresAPIKey": true,
       "releases": [
@@ -1108,7 +1108,7 @@
         "de": "Speichert und durchsucht Erinnerungen ueber die OpenAI Vector Store API mit semantischen Embeddings."
       },
       "category": "memory",
-      "downloadCount": 2817,
+      "downloadCount": 2828,
       "iconSystemName": "brain",
       "releases": [
         {
@@ -1139,7 +1139,7 @@
         "de": "Lokales LLM mit Google Gemma 4 auf Apple Silicon via MLX. Kein API-Key erforderlich."
       },
       "category": "llm",
-      "downloadCount": 5479,
+      "downloadCount": 5524,
       "iconSystemName": "cpu",
       "releases": [
         {
@@ -1254,7 +1254,7 @@
         "de": "Cloud-Transkription ueber die Soniox-API mit Echtzeit-WebSocket-Streaming und Uebersetzungsunterstuetzung. Erfordert API-Key."
       },
       "category": "transcription",
-      "downloadCount": 209,
+      "downloadCount": 211,
       "iconSystemName": "waveform.badge.mic",
       "requiresAPIKey": true,
       "releases": [
@@ -1320,7 +1320,7 @@
         "de": "Transkribierten oder verarbeiteten Text per HTTP POST an eine beliebige Webhook-URL senden."
       },
       "category": "post-processor",
-      "downloadCount": 925,
+      "downloadCount": 926,
       "iconSystemName": "arrow.up.forward.app",
       "releases": [
         {
@@ -1383,7 +1383,7 @@
         "de": "Lokale Spracherkennung und Uebersetzung von IBM mit MLX auf Apple Silicon. 6 Sprachen mit bidirektionaler Uebersetzung."
       },
       "category": "transcription",
-      "downloadCount": 954,
+      "downloadCount": 957,
       "iconSystemName": "cpu",
       "releases": [
         {
@@ -1445,7 +1445,7 @@
         "de": "Lokale Spracherkennung mit Voxtral MLX auf Apple Silicon. Schnell und praezise."
       },
       "category": "transcription",
-      "downloadCount": 1910,
+      "downloadCount": 1917,
       "iconSystemName": "cpu",
       "releases": [
         {
@@ -1505,7 +1505,7 @@
       "description": "",
       "descriptions": {},
       "category": "post-processor",
-      "downloadCount": 3254,
+      "downloadCount": 3276,
       "iconSystemName": "text.badge.minus",
       "requiresAPIKey": false,
       "releases": [
@@ -1529,7 +1529,7 @@
         "de": "Experimentelles lokales Text-to-Speech mit Supertonic-3-ONNX-Modellen. Vor dem Download der Modellassets muss die OpenRAIL-M-Modelllizenz akzeptiert werden."
       },
       "category": "tts",
-      "downloadCount": 180,
+      "downloadCount": 181,
       "iconSystemName": "waveform.circle.fill",
       "requiresAPIKey": false,
       "hosting": "local",
@@ -1544,7 +1544,7 @@
           "supportedArchitectures": [
             "arm64"
           ],
-          "downloadCount": 163
+          "downloadCount": 164
         },
         {
           "version": "1.0.0",
